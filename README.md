@@ -6,6 +6,8 @@ Javascript Review is a condensed review of Vanilla Javascript that uses all the 
 
 The sources of the information hereby condensed are from [Derek Banas 1 Tutorial Javascript video](https://www.youtube.com/watch?v=fju9ii8YsGs) and [Mozilla´s official documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
 
+Author: Cesar Romo
+
 ## Quick start
 
 ## Features
